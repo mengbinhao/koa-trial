@@ -9,3 +9,7 @@
 7. unit-test
 8. jsonp
 9. others
+
+![](./koa2-refactor-structure/img2.png)
+
+![](./koa2-refactor-structure/img.png)
